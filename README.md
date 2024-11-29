@@ -2,4 +2,4 @@
 <br>
 This is my first Repository.
 <br>
-Author - Suraj Kumar
+Author - Suraj kr(Learning Git & GitHub)
